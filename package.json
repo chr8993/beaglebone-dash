@@ -1,0 +1,15 @@
+{
+  "name": "blink-dash",
+  "version": "0.0.1",
+  "description": "Will execute javascript and blink a beagleboard black",
+  "main": "index.js",
+  "dependencies": {
+    "arp-dash": "0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Gomez <chr8993@gmail.com> (http://christiangomez.me)",
+  "license": "MIT"
+}
